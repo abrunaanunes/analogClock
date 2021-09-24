@@ -263,3 +263,10 @@ a {
     font-size: var(--small-font-size);
     font-weight: var(--font-medium);
 }
+
+/*==================== MEDIA QUERIES ====================*/
+@media only screen and (min-width: 968px){
+    .container {
+        margin: 0 auto;
+    }
+}
